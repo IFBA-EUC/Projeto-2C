@@ -18,12 +18,13 @@
 > # Empresa: 
 
 + Cantina do IFBA - Campus Euclides da Cunha 
++ Nome da empresa: Cantina do Chefe
 
 
 
 > # Cliente: 
 
-+ Ainda não definido (será definido na primeira reunião)
++ Thais Oliveira Primo (Nutricionista)
 
 
 
